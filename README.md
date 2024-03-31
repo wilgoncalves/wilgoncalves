@@ -1,6 +1,7 @@
 # Willian Gonçalves dos Santos
 
-## Estudante de bacharelado em Ciência da Computação na Descomplica Faculdade Digital. Conhecimento em C#, .NET, Java, HTML, CSS e JavaScript.
+### Estudante de bacharelado em Ciência da Computação na Descomplica Faculdade Digital. Conhecimento em C#, .NET, Java, HTML, CSS e JavaScript.
+
 
 ### Conecte-se comigo:
 
